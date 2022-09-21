@@ -19,4 +19,4 @@ Demo   : [demo](http://demo.afrivarsity.com/)
 
 ## License
 MIT
-**Free Software, Hell Yeah!**
+**Free Software!**
